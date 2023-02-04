@@ -5,6 +5,7 @@
   "description": "An Ionic project",
   "default_locale": "en",
   "theme_color": "#1976d2",
+  "background_color": "transparent",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
